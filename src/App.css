@@ -99,7 +99,7 @@ img {
 
 /*---------------------------------- Loader Start----------------------------------*/
 .flex__Loading {
-  width: 900px;
+  width: fit-content;
   background-color: rgba(36, 51, 54, 0.1);
   box-shadow: 10px 5px 5px rgb(67, 67, 67);
   border-radius: 22px;
@@ -186,4 +186,6 @@ img {
   .card__location {
     font-size: 16px;
   }
+ 
 }
+ 
