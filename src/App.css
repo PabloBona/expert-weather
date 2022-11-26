@@ -35,7 +35,7 @@ button {
 
 :root {
   margin: auto 0;
-  padding: auto 0;
+  padding:  0;
   text-align: center;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -189,3 +189,13 @@ img {
  
 }
  
+@media screen and (max-width: 700px) {
+  .main__loader {
+   background-color: rgba(36, 51, 54, 0.5); 
+   
+    box-shadow: 10px 5px 5px rgb(67, 67, 67);
+    width: fit-content;
+    margin: 1.5rem;
+  }
+ 
+}
