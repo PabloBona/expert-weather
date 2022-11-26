@@ -207,4 +207,10 @@ img {
     display: flex;
     padding: 2rem;
   }
+  .card__list {
+    list-style: none;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
 }
