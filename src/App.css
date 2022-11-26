@@ -99,7 +99,7 @@ img {
 
 /*---------------------------------- Loader Start----------------------------------*/
 .flex__Loading {
-  width: 1200px;
+  width: 900px;
   background-color: rgba(36, 51, 54, 0.1);
   box-shadow: 10px 5px 5px rgb(67, 67, 67);
   border-radius: 22px;
@@ -108,7 +108,7 @@ img {
   background-color: rgba(36, 51, 54, 0.1);
   border-radius: 22px;
   color: rgba(255, 255, 255, 1);
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .main__loader {
@@ -119,9 +119,9 @@ img {
 
 .loader__icon {
   width: 180px;
-  height: 140px;
+  height: 130px;
   display: block;
-  margin: 0 auto 20px;
+  margin: 10px auto 20px;
   background-image: radial-gradient(
       circle 25px at 25px 25px,
       #fff 100%,
