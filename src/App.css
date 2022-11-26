@@ -51,7 +51,7 @@ img {
 
 /*--------------------------------- App Jsx Component ----------------------------------*/
 .App {
-  border-radius: 1rem;
+  border-radius: 12px;
   color: rgb(255, 255, 255);
 }
 .card__flex {
@@ -106,14 +106,14 @@ img {
 }
 .loader {
   background-color: rgba(36, 51, 54, 0.1);
-  border-radius: 22px;
+  border-radius: 12px;
   color: rgba(255, 255, 255, 1);
   font-size: 3rem;
 }
 
 .main__loader {
   background-color: rgba(36, 51, 54, 0.5);
-  border-radius: 22px;
+  border-radius: 12px;
   box-shadow: 10px 5px 5px rgb(67, 67, 67);
 }
 
