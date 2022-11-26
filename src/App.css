@@ -109,6 +109,8 @@ img {
   border-radius: 12px;
   color: rgba(255, 255, 255, 1);
   font-size: 3rem;
+  display: flex;
+  padding: 2rem;
 }
 
 .main__loader {
@@ -197,5 +199,12 @@ img {
     width: fit-content;
     margin: 1.5rem;
   }
- 
+  .loader {
+    background-color: rgba(36, 51, 54, 0.1);
+    border-radius: 12px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 2rem;
+    display: flex;
+    padding: 2rem;
+  }
 }
