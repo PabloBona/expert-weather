@@ -69,6 +69,10 @@ img {
 
 .card__info h2 {
   padding-top: 4rem;
+  font-size: 1.5rem;
+}
+.card__info  {
+  font-size: 1.2rem;
 }
 
 .card__list {
