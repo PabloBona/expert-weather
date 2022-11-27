@@ -10,7 +10,7 @@ const Degrees = ({temperature}) => {
     <footer>
         <h2>{isCelsius ? `${temperature?.celsius} °C`: `${temperature?.farenheit} °F`}</h2>
         
-    <button className='card__button' onClick={celsiusornot}> Change to {isCelsius?`°Farenheit`:`°Celsius`} </button>
+    <button className='card__button bg-gradient-to-r from-green-400 to-blue-500 hover:from-blue-500 hover:to-green-400' onClick={celsiusornot}> Change to {isCelsius?`°Farenheit`:`°Celsius`} </button>
     </footer>
   )
 }

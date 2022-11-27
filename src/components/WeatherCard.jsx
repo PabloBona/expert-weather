@@ -6,7 +6,7 @@ const WeatherCard = ({weather}) => { //Aca llega la info de weather que se manda
     // console.log(weather?.weather[0].description)
   return (
     
-    <article className='card'>
+    <article className='card '>
         <header className='card__header'>
         <h1 className='card__title'> Weather App</h1>
         <h2 className='card__location'> {weather?.name}, {weather?.sys.country}</h2>

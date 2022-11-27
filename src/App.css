@@ -33,7 +33,7 @@ button {
   cursor: pointer;
 }
 
-:root {
+.body {
   margin: auto 0;
   padding:  0;
   text-align: center;
@@ -77,6 +77,7 @@ img {
   display: flex;
   flex-direction: column;
 }
+/*---------------------------------- Btn ----------------------------------*/
 .card__button {
   background-color: rgb(0, 177, 235);
   color: aliceblue;
@@ -84,6 +85,8 @@ img {
   margin-top: 1rem;
   font-size: 1.2rem;
   box-shadow: 0 0 15px rgb(194, 194, 194);
+  padding: 1rem;
+  border-radius: 1rem;
 }
 .card__button:hover {
   transform: scale(1.05);
