@@ -220,4 +220,11 @@ img {
     display: flex;
     flex-direction: column;
   }
+  .card__info h2 {
+    padding-top: 4rem;
+    font-size: 1.2rem;
+  }
+  .card__info  {
+    font-size: 0.9rem;
+  }
 }
