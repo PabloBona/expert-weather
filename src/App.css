@@ -1,7 +1,6 @@
 /*--------------------------------- Universal Styles ----------------------------------*/
 * {
   font-family: "Montserrat";
-
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
@@ -16,8 +15,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  
 }
-
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
@@ -43,6 +42,7 @@ button {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  
 }
 img {
   display: block;
