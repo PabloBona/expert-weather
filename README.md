@@ -59,7 +59,7 @@ Bootstrap, played a vital role in streamlining the development process. By lever
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Access my online portfolio and experiment with the different sections and projects I have included from here <a href="https://pablobona.github.io/expert-weather/index.html">Live Demo</a>
+- Access my online portfolio and experiment with the different sections and projects I have included from here <a href="https://weatherappbonpa.netlify.app/">Live Demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
